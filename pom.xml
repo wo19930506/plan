@@ -15,6 +15,7 @@
 		<jdk.version>1.8</jdk.version>
 		<ip2region.version>1.4</ip2region.version>
 		<tio.version>3.2.4.v20181218-RELEASE</tio.version>
+		<mina.version>2.0.19</mina.version>
 		<okhttp.version>3.11.0</okhttp.version>
 		<joda.version>2.10.1</joda.version>
 		<jfinal.version>3.4</jfinal.version>
@@ -36,11 +37,19 @@
 		    <artifactId>ip2region</artifactId>
 		    <version>${ip2region.version}</version>
 		</dependency>
+		
 		<!-- tio高并发长连接通讯框架 -->
 		<dependency>
 		    <groupId>org.t-io</groupId>
 		    <artifactId>tio-http-server</artifactId>
 		    <version>${tio.version}</version>
+		</dependency>
+
+        <!-- mina通讯框架 -->
+		<dependency>
+		    <groupId>org.apache.mina</groupId>
+		    <artifactId>mina-core</artifactId>
+		    <version>${mina.version}</version>
 		</dependency>
 
         <!-- http 请求工具 -->
