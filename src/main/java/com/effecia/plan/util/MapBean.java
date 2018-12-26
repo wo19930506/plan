@@ -1,4 +1,4 @@
-package com.mayabc.plan.util;
+package com.effecia.plan.util;
 
 import java.util.HashMap;
 

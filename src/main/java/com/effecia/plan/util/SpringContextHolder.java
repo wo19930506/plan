@@ -1,4 +1,4 @@
-package com.mayabc.plan.util;
+package com.effecia.plan.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

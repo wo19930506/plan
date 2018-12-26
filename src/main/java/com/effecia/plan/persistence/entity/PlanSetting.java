@@ -1,4 +1,4 @@
-package com.mayabc.plan.persistence.entity;
+package com.effecia.plan.persistence.entity;
 
 /**
  * @author wade

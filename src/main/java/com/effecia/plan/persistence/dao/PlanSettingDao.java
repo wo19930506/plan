@@ -1,9 +1,9 @@
-package com.mayabc.plan.persistence.dao;
+package com.effecia.plan.persistence.dao;
 
 import java.util.List;
 import java.util.Map;
 
-import com.mayabc.plan.persistence.entity.PlanSetting;
+import com.effecia.plan.persistence.entity.PlanSetting;
 
 public interface PlanSettingDao {
 

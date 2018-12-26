@@ -1,4 +1,4 @@
-package com.mayabc.plan;
+package com.effecia.plan;
 
 import java.io.IOException;
 

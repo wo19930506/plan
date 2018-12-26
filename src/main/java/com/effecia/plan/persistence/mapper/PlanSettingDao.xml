@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.mayabc.plan.persistence.dao.PlanSettingDao">
+<mapper namespace="com.effecia.plan.persistence.dao.PlanSettingDao">
 
-	<resultMap id="BaseResultMap" type="com.mayabc.plan.persistence.entity.PlanSetting">
+	<resultMap id="BaseResultMap" type="com.effecia.plan.persistence.entity.PlanSetting">
 		<id column="id" property="id" />
 		<result column="game_type" property="gameType" />
 		<result column="action" property="action" />

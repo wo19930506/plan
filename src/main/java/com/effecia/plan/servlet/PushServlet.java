@@ -1,4 +1,4 @@
-package com.mayabc.plan.servlet;
+package com.effecia.plan.servlet;
 
 import java.util.HashMap;
 import java.util.Map;
